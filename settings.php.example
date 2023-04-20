@@ -1,0 +1,4 @@
+<?php
+
+$botToken = '';
+$chatId = '';
